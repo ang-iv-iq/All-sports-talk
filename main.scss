@@ -1,0 +1,65 @@
+//Fonts
+// @font-face {
+//   font-family: "Lato-Regular";
+//   src: url(fonts/Lato-Regular.woff2);
+// }
+
+//Reset
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+a {
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+//Responsive
+@mixin laptop {
+  @media (max-width: 1024px) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (max-width: 768px) {
+    @content;
+  }
+}
+
+@mixin mobile {
+  @media (max-width: 348px) {
+    @content;
+  }
+}
+
+//Variables
+$color-dark-blue: #091F5B;
+$color-white: #fff;
+$color-black: #000;
+$color-yellow: #ffc107;
+$color-gray: #8d99ae;
+
+header {
+  background-color: #091F5B !important;
+  padding: 16px 50px;
+  justify-content: space-between;
+
+  .link-secondary {
+    color: $color-yellow;
+
+    &:hover {
+      color: $color-yellow;
+      text-decoration: underline;
+    }
+  }
+
+  .text-white {
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
