@@ -68,7 +68,17 @@ header {
 .ilija-sports {}
 
 //Marija edits here
-.marija-sports {}
+.marija-sports {
+  .size {
+    font-size: smaller;
+  }
+    
+  
+  p {
+    color: #ffc107;
+    text-decoration: wavy;
+  }
+}
 
 //Bojan edits here
 .bojan-sports {}
