@@ -22,6 +22,7 @@ header .link-secondary:hover {
 }
 header .text-white:hover {
   text-decoration: underline;
+
 }
 
 .marija-sports .size {
@@ -31,4 +32,53 @@ header .text-white:hover {
   color: #ffc107;
   -webkit-text-decoration: wavy;
           text-decoration: wavy;
-}/*# sourceMappingURL=main.css.map */
+}
+
+
+}
+
+footer {
+  background-color: #091F5B !important;
+}
+footer .row {
+  justify-content: center;
+}
+footer .row .fs-5 {
+  color: white;
+  font-weight: bold;
+}
+footer .row .list-unstyled {
+  padding-bottom: 20px;
+}
+footer .row .list-unstyled .mb-2 {
+  color: #b6b2b2;
+}
+footer .row .list-unstyled .mb-2 a {
+  color: white;
+  text-decoration: none;
+}
+footer .row .list-unstyled .mb-2 a:hover {
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+footer .row .list-unstyled .mb-1 {
+  font-weight: bold;
+}
+footer .row .col-6 {
+  margin-right: 30px;
+}
+footer .row .col-6 h5 {
+  color: white;
+  text-decoration: none;
+}
+footer .row .col-6 h5:hover {
+  color: #ffc107;
+  cursor: pointer;
+}
+footer .row .col-6 .newsLetter {
+  color: white;
+
+
+}
+
