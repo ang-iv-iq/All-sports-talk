@@ -25,6 +25,18 @@ header .text-white:hover {
 
 }
 
+.marija-sports .size {
+  font-size: smaller;
+}
+.marija-sports p {
+  color: #ffc107;
+  -webkit-text-decoration: wavy;
+          text-decoration: wavy;
+}
+
+
+}
+
 footer {
   background-color: #091F5B !important;
 }
@@ -69,3 +81,4 @@ footer .row .col-6 .newsLetter {
 
 
 }
+
