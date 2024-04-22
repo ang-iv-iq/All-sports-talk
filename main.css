@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+header {
+  background-color: #091F5B !important;
+  padding: 16px 50px;
+  justify-content: space-between;
+}
+header .link-secondary {
+  color: #ffc107;
+}
+header .link-secondary:hover {
+  color: #ffc107;
+  text-decoration: underline;
+}
+header .text-white:hover {
+  text-decoration: underline;
+}/*# sourceMappingURL=main.css.map */
