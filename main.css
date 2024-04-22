@@ -22,22 +22,21 @@ header .link-secondary:hover {
 }
 header .text-white:hover {
   text-decoration: underline;
-
 }
 
-
+.marija-sports {
+  background-image: url(../images/basketball-equipment\ 1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
-
 .marija-sports .size {
   font-size: smaller;
 }
 .marija-sports p {
-  color: #ffc107;
+  color: #ffc107 !important;
   -webkit-text-decoration: wavy;
           text-decoration: wavy;
-}
-
-
 }
 
 footer {
@@ -81,8 +80,4 @@ footer .row .col-6 h5:hover {
 }
 footer .row .col-6 .newsLetter {
   color: white;
-
-
-}
-
-
+}/*# sourceMappingURL=main.css.map */
