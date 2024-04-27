@@ -24,6 +24,15 @@ header .text-white:hover {
   text-decoration: underline;
 }
 
+.ilija-sports .col {
+  background-image: url(images/download.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ilija-sports .row {
+  background-repeat: no-repeat;
+}
+
 .marija-sports {
   background-image: url(../images/basketball-equipment\ 1.png);
   background-repeat: no-repeat;
