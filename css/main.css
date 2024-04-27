@@ -24,6 +24,22 @@ header .text-white:hover {
   text-decoration: underline;
 }
 
+.ilija-sports .cristiano {
+  background-image: url(../images/download.jpg) !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ilija-sports .mbappe {
+  background-image: url(../images/mbappe.jpg) !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ilija-sports .haland {
+  background-image: url(../images/Haland.jpg) !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .marija-sports {
   background-image: url(../images/basketball-equipment\ 1.png);
   background-repeat: no-repeat;
@@ -80,4 +96,4 @@ footer .row .col-6 h5:hover {
 }
 footer .row .col-6 .newsLetter {
   color: white;
-}
+}/*# sourceMappingURL=main.css.map */

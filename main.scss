@@ -67,21 +67,39 @@ header {
 //Ilija edits here
 .ilija-sports { 
 
-  .col{
-    background-image: url(images/download.jpg);
+  
+  .cristiano{
+    background-image: url(../images/download.jpg) !important;
     background-repeat: no-repeat;
     background-size: cover;
+   
+  }
+ 
+  .mbappe{
+    background-image: url(../images/mbappe.jpg) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+
   }
 
-  .row{
-    background-repeat: no-repeat ;
+  .haland{
+    background-image: url(../images/Haland.jpg) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  }
+
+
+
+
+
    
     
   }
   
 
 
-}
+
 
 //Marija edits here
 

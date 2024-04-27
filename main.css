@@ -24,8 +24,8 @@ header .text-white:hover {
   text-decoration: underline;
 }
 
-.ilija-sports .col {
-  background-image: url(images/download.jpg);
+.ilija-sports .cristiano {
+  background-image: url(../images/download.jpg) !important;
   background-repeat: no-repeat;
   background-size: cover;
 }
